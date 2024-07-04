@@ -1,5 +1,5 @@
 # 对应Web3训练营task3
-pr: https://github.com/openbuildxyz/Web3-Frontend-Bootcamp/pull/753
+🚀 pr: https://github.com/openbuildxyz/Web3-Frontend-Bootcamp/pull/753
 
 # 编写 NFTMarket 智能合约
 
